@@ -1,4 +1,4 @@
-Hello! I love building softwares and have worked on various technologies to make things happen. I am the Tech Lead at <a href="https://coloredcow.com">ColoredCow</a>. You can find more about my work through my social media, blog posts and public speaking.
+Hello! I love building softwares and have worked on various technologies to make things happen. I am the Tech Lead at <a href="https://coloredcow.com">ColoredCow</a>. You can find more about my work through my social media, blog posts and public speakings.
 
 <a href="https://twitter.com/heyvaibhav"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>&nbsp;
 <a href="https://instagram.com/rathorevaibhav"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>&nbsp;
