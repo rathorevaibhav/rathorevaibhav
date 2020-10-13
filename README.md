@@ -1,4 +1,4 @@
-Hello! I love building softwares and have worked on various technologies to make things happen. I am the Tech Lead at <a href="https://coloredcow.com">ColoredCow</a>. You can find more about my work through my social media and blog posts.
+Hello! I love building softwares and have worked on various technologies to make things happen. I am the Tech Lead at <a href="https://coloredcow.com">ColoredCow</a>. You can find more about my work through my social media, blog posts and public speaking.
 
 <a href="https://twitter.com/heyvaibhav"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>&nbsp;
 <a href="https://instagram.com/rathorevaibhav"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>&nbsp;
@@ -14,7 +14,7 @@ Hello! I love building softwares and have worked on various technologies to make
 - [Employee Portal: Getting Hands-on](https://coloredcow.com/employee-portal-getting-hands-on/)
 - [SesPress – Our first open sourced WordPress plugin](https://coloredcow.com/sespress-first-open-sourced-wordpress-plugin/)
 
-### :mega: My talks
+### :mega: Public speakings
 
 - [Demystifying Laravel Service Container](https://coloredcow.com/talks/laravel/demystifying-laravel-service-container/)
 - [Laravel and DevOps](https://coloredcow.com/talks/laravel/laravel-and-devops/)
