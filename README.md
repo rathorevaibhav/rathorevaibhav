@@ -16,4 +16,4 @@ Hello! I love building softwares and have worked on various technologies to make
 
 <hr/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rathorevaibhav&show_icons=true&include_all_commits=true&count_private=true&line_height=20&theme=vue" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathorevaibhav&show_icons=true&include_all_commits=true&line_height=30&count_private=true&layout=compact&theme=vue" alt="Satendra's GitHub Stats"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rathorevaibhav&show_icons=true&include_all_commits=true&count_private=true&line_height=24&theme=vue&hide=stars" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathorevaibhav&show_icons=true&include_all_commits=true&line_height=30&count_private=true&layout=compact&theme=vue" alt="Satendra's GitHub Stats"/>
