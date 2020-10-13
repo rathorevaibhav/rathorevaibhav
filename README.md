@@ -6,13 +6,18 @@ Hello! I love building softwares and have worked on various technologies to make
 
 <hr/>
 
-### 📰 Blog Posts
+### :newspaper: Blog Posts
 
 - [Glific – Setting up the right foundation](https://coloredcow.com/glific-setting-up-the-right-foundation/)
 - [Ravines and Plateaus](https://coloredcow.com/ravines-and-plateaus/)
 - [How Laravel helped a software development company in India achieve dream processes](https://coloredcow.com/laravel-helped-software-development-company-in-india-achieve-dream-processes/)
 - [Employee Portal: Getting Hands-on](https://coloredcow.com/employee-portal-getting-hands-on/)
 - [SesPress – Our first open sourced WordPress plugin](https://coloredcow.com/sespress-first-open-sourced-wordpress-plugin/)
+
+### :mega: My talks
+
+- [Demystifying Laravel Service Container](https://coloredcow.com/talks/laravel/demystifying-laravel-service-container/)
+- [Laravel and DevOps](https://coloredcow.com/talks/laravel/laravel-and-devops/)
 
 <hr/>
 
