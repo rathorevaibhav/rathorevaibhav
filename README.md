@@ -20,7 +20,7 @@ Hello! I love building softwares and have worked on various technologies to make
 - [Laravel and DevOps](https://coloredcow.com/talks/laravel/laravel-and-devops/)
 
 ### :computer: Work
-I am active contributor and maintainer of several [open source projects at ColoredCow](https://github.com/coloredcow). To highlight a few:
+I have been an active software programmer and tech reviewer for more than 4 years. Though I mostly work in private projects, I am also active contributor and maintainer of several [open source projects at ColoredCow](https://github.com/coloredcow). To highlight a few:
 - [Employee Portal](https://github.com/coloredcow/employee-portal) - A hub-and-spoke platform for organization operations
 - [Laravel GSuite](https://packagist.org/packages/coloredcow/laravel-gsuite) - A composer package to setup Google OAuth and GSuite Admin SDK in Laravel apps
 - [SesPress](https://wordpress.org/plugins/sespress/) - A WordPress plugin to send emails using Amazon’s Simple Email Service
