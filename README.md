@@ -21,11 +21,11 @@ Hello! I love building softwares and have worked on various technologies to make
 
 ### :computer: Work
 I am active contributor and maintainer of several [open source projects at ColoredCow](https://github.com/coloredcow). To highlight a few:
-- [Employee Portal](https://github.com/coloredcow/employee-portal)
-- [Laravel GSuite - Composer package](https://packagist.org/packages/coloredcow/laravel-gsuite)
-- [SesPress - WordPress plugin](https://wordpress.org/plugins/sespress/)
-- [Bootstrap-Boilerplate - NPM Package](https://www.npmjs.com/package/bootstrap-boilerplate)
-- [Email Campaigns](https://github.com/ColoredCow/email-campaigns)
+- [Employee Portal](https://github.com/coloredcow/employee-portal) - A hub-and-spoke platform for organization operations
+- [Laravel GSuite](https://packagist.org/packages/coloredcow/laravel-gsuite) - A composer package to setup Google OAuth and GSuite Admin SDK in Laravel apps
+- [SesPress](https://wordpress.org/plugins/sespress/) - A WordPress plugin to send emails using Amazon’s Simple Email Service
+- [Bootstrap-Boilerplate](https://www.npmjs.com/package/bootstrap-boilerplate) - An NPM package to power-up core BootstrapCSS
+- [Email Campaigns](https://github.com/ColoredCow/email-campaigns) - A platform to launch email campaigns through AWS SES or Mandrill.
 
 <hr/>
 
