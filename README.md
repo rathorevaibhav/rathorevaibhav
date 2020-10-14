@@ -19,6 +19,14 @@ Hello! I love building softwares and have worked on various technologies to make
 - [Demystifying Laravel Service Container](https://coloredcow.com/talks/laravel/demystifying-laravel-service-container/)
 - [Laravel and DevOps](https://coloredcow.com/talks/laravel/laravel-and-devops/)
 
+### :computer: Work
+I am active contributor and maintainer of several [open source projects at ColoredCow](https://github.com/coloredcow). To highlight a few:
+- [Employee Portal](https://github.com/coloredcow/employee-portal)
+- [Laravel GSuite](https://github.com/ColoredCow/laravel-gsuite)
+- [SesPress - WordPress plugin](https://wordpress.org/plugins/sespress/)
+- [Bootstrap-Boilerplate - NPM Package](https://www.npmjs.com/package/bootstrap-boilerplate)
+- [Email Campaigns](https://github.com/ColoredCow/email-campaigns)
+
 <hr/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rathorevaibhav&show_icons=true&include_all_commits=true&count_private=true&line_height=24&theme=vue&hide=stars" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathorevaibhav&show_icons=true&include_all_commits=true&line_height=30&count_private=true&layout=compact&theme=vue" />
