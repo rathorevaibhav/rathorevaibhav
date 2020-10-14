@@ -22,7 +22,7 @@ Hello! I love building softwares and have worked on various technologies to make
 ### :computer: Work
 I am active contributor and maintainer of several [open source projects at ColoredCow](https://github.com/coloredcow). To highlight a few:
 - [Employee Portal](https://github.com/coloredcow/employee-portal)
-- [Laravel GSuite](https://github.com/ColoredCow/laravel-gsuite)
+- [Laravel GSuite - Composer package](https://packagist.org/packages/coloredcow/laravel-gsuite)
 - [SesPress - WordPress plugin](https://wordpress.org/plugins/sespress/)
 - [Bootstrap-Boilerplate - NPM Package](https://www.npmjs.com/package/bootstrap-boilerplate)
 - [Email Campaigns](https://github.com/ColoredCow/email-campaigns)
