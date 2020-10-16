@@ -26,7 +26,6 @@ I have been an active software programmer and tech reviewer for more than 4 year
 - [Laravel GSuite](https://packagist.org/packages/coloredcow/laravel-gsuite) - A composer package to setup Google OAuth and GSuite Admin SDK in Laravel apps
 - [SesPress](https://wordpress.org/plugins/sespress/) - A WordPress plugin to send emails using Amazon’s Simple Email Service
 - [Bootstrap-Boilerplate](https://www.npmjs.com/package/bootstrap-boilerplate) - An NPM package to power-up core BootstrapCSS
-- [Email Campaigns](https://github.com/ColoredCow/email-campaigns) - A platform to launch email campaigns through AWS SES or Mandrill.
 
 
 ### :mortar_board: I mentor programming!
