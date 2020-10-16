@@ -1,4 +1,4 @@
-Hello! I love building softwares and have worked on various technologies to make things happen. I am the Tech Lead at <a href="https://coloredcow.com">ColoredCow</a>. You can find more about my work through my social media, blog posts, public speakings and projects.
+Hello! I love building softwares and have worked on various technologies to make things happen. I am the Tech Lead at <a href="https://coloredcow.com?utm_source=github&utm_medium=rathorevaibhav">ColoredCow</a>. You can find more about my work through my social media, blog posts, public speakings and projects.
 
 <a href="https://twitter.com/heyvaibhav"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"></a>&nbsp;
 <a href="https://instagram.com/rathorevaibhav"><img height="25" width="25" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"></a>&nbsp;
@@ -8,16 +8,16 @@ Hello! I love building softwares and have worked on various technologies to make
 
 ### :newspaper: Blog Posts
 
-- [Glific – Setting up the right foundation](https://coloredcow.com/glific-setting-up-the-right-foundation/)
-- [Ravines and Plateaus](https://coloredcow.com/ravines-and-plateaus/)
-- [How Laravel helped a software development company in India achieve dream processes](https://coloredcow.com/laravel-helped-software-development-company-in-india-achieve-dream-processes/)
-- [Employee Portal: Getting Hands-on](https://coloredcow.com/employee-portal-getting-hands-on/)
-- [SesPress – Our first open sourced WordPress plugin](https://coloredcow.com/sespress-first-open-sourced-wordpress-plugin/)
+- [Glific – Setting up the right foundation](https://coloredcow.com/glific-setting-up-the-right-foundation/?utm_source=github&utm_medium=rathorevaibhav)
+- [Ravines and Plateaus](https://coloredcow.com/ravines-and-plateaus/?utm_source=github&utm_medium=rathorevaibhav)
+- [How Laravel helped a software development company in India achieve dream processes](https://coloredcow.com/laravel-helped-software-development-company-in-india-achieve-dream-processes/?utm_source=github&utm_medium=rathorevaibhav)
+- [Employee Portal: Getting Hands-on](https://coloredcow.com/employee-portal-getting-hands-on/?utm_source=github&utm_medium=rathorevaibhav)
+- [SesPress – Our first open sourced WordPress plugin](https://coloredcow.com/sespress-first-open-sourced-wordpress-plugin/?utm_source=github&utm_medium=rathorevaibhav)
 
 ### :mega: Public speakings
 
-- [Demystifying Laravel Service Container](https://coloredcow.com/talks/laravel/demystifying-laravel-service-container/)
-- [Laravel and DevOps](https://coloredcow.com/talks/laravel/laravel-and-devops/)
+- [Demystifying Laravel Service Container](https://coloredcow.com/talks/laravel/demystifying-laravel-service-container/?utm_source=github&utm_medium=rathorevaibhav)
+- [Laravel and DevOps](https://coloredcow.com/talks/laravel/laravel-and-devops/?utm_source=github&utm_medium=rathorevaibhav)
 
 ### :computer: Work
 I have been an active software programmer and tech reviewer for more than 4 years. Though I mostly work in private projects, I am also active contributor and maintainer of several [open source projects at ColoredCow](https://github.com/coloredcow). To highlight a few:
