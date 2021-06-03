@@ -8,6 +8,7 @@ Hello! I love building softwares and have worked on various technologies to make
 
 ### :newspaper: Blog Posts
 
+- [Multitenancy in Plio](https://coloredcow.com/multi-tenancy-in-plio/)
 - [Glific – Setting up the right foundation](https://coloredcow.com/glific-setting-up-the-right-foundation/?utm_source=github&utm_medium=rathorevaibhav)
 - [Ravines and Plateaus](https://coloredcow.com/ravines-and-plateaus/?utm_source=github&utm_medium=rathorevaibhav)
 - [How Laravel helped a software development company in India achieve dream processes](https://coloredcow.com/laravel-helped-software-development-company-in-india-achieve-dream-processes/?utm_source=github&utm_medium=rathorevaibhav)
@@ -21,6 +22,7 @@ Hello! I love building softwares and have worked on various technologies to make
 
 ### :computer: Work
 I have been an active software programmer and tech reviewer for more than 4 years. Though I mostly work in private projects, I am also active contributor and maintainer of several [open source projects at ColoredCow](https://github.com/coloredcow). To highlight a few:
+- [Plio](https://github.com/avantifellows?q=plio) - A platform that makes your videos interactive and helps to extract engagement insights
 - [Glific](https://github.com/glific/glific-frontend) - A two-way communication platform for non-profits using WhatsApp
 - [Employee Portal](https://github.com/coloredcow/employee-portal) - A hub-and-spoke platform for organization operations
 - [Laravel GSuite](https://packagist.org/packages/coloredcow/laravel-gsuite) - A composer package to setup Google OAuth and GSuite Admin SDK in Laravel apps
