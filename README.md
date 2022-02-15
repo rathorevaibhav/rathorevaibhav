@@ -36,6 +36,9 @@ Through [CodeTrek](https://coloredcow.com/codetrek/?utm_source=github&utm_medium
 - [Build your WordPress theme](https://coloredcow.com/codetrek-session/build-your-first-wordpress-theme/?utm_source=github&utm_medium=rathorevaibhav)
 - [Laravel Bootcamp](https://coloredcow.com/codetrek-session/laravel-bootcamp/?utm_source=github&utm_medium=rathorevaibhav)
 
+### Technologies I've worked in
+<img height="25" src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png">&nbsp;<img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1200px-Microsoft_Azure_Logo.svg.png">&nbsp;<img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/2560px-Google-flutter-logo.svg.png">
+
 <hr/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rathorevaibhav&show_icons=true&include_all_commits=true&count_private=true&line_height=24&theme=vue&hide=stars" />  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rathorevaibhav&show_icons=true&include_all_commits=true&line_height=30&count_private=true&layout=compact&theme=vue" />
