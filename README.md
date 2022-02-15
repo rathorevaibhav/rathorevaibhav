@@ -36,7 +36,7 @@ Through [CodeTrek](https://coloredcow.com/codetrek/?utm_source=github&utm_medium
 - [Build your WordPress theme](https://coloredcow.com/codetrek-session/build-your-first-wordpress-theme/?utm_source=github&utm_medium=rathorevaibhav)
 - [Laravel Bootcamp](https://coloredcow.com/codetrek-session/laravel-bootcamp/?utm_source=github&utm_medium=rathorevaibhav)
 
-### Technologies I've worked in
+### :man_technologist: Technologies I've worked in
 <a href="https://aws.amazon.com/" target="_blank"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" /></a>
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" /></a>
 <a href="https://cloud.google.com/" target="_blank"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Google_Cloud_Console_logo.png" /></a>
