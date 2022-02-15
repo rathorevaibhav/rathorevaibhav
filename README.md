@@ -68,7 +68,7 @@ Through [CodeTrek](https://coloredcow.com/codetrek/?utm_source=github&utm_medium
   <img height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
 </a>
 <a href="https://flutter.dev/" target="_blank">
-  <img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/  2560px-Google-flutter-logo.svg.png" />
+  <img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/2560px-Google-flutter-logo.svg.png" />
 </a>
 
 <hr/>
