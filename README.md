@@ -37,39 +37,17 @@ Through [CodeTrek](https://coloredcow.com/codetrek/?utm_source=github&utm_medium
 - [Laravel Bootcamp](https://coloredcow.com/codetrek-session/laravel-bootcamp/?utm_source=github&utm_medium=rathorevaibhav)
 
 ### Technologies I've worked in
-<a href="https://aws.amazon.com/" target="_blank">
-  <img height="25" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" />
-</a>
-<a href="https://azure.microsoft.com/en-in/" target="_blank">
-  <img height="25" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" />
-</a>
-<a href="https://cloud.google.com/" target="_blank">
-  <img height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Google_Cloud_Console_logo.png" />
-</a>
-<a href="https://laravel.com/" target="_blank">
-  <img height="25" src="https://laravel.com/img/logomark.min.svg" />
-</a>
-<a href="https://www.djangoproject.com/" target="_blank">
-  <img height="25" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Django_logo.png" />
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-  <img height="25" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" />
-</a>
-<a href="https://www.postgresql.org/" target="_blank">
-  <img height="25" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" />
-</a>
-<a href="https://wordpress.org/" target="_blank">
-  <img height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" />
-</a>
-<a href="https://vuejs.org/" target="_blank">
-  <img height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" />
-</a>
-<a href="https://reactjs.org/" target="_blank">
-  <img height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" />
-</a>
-<a href="https://flutter.dev/" target="_blank">
-  <img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/2560px-Google-flutter-logo.svg.png" />
-</a>
+<a href="https://aws.amazon.com/" target="_blank"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" /></a>
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" /></a>
+<a href="https://cloud.google.com/" target="_blank"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Google_Cloud_Console_logo.png" /></a>
+<a href="https://laravel.com/" target="_blank"><img height="25" src="https://laravel.com/img/logomark.min.svg" /></a>
+<a href="https://www.djangoproject.com/" target="_blank"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Django_logo.png" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/0/0a/MySQL_textlogo.svg" /></a>
+<a href="https://www.postgresql.org/" target="_blank"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" /></a>
+<a href="https://wordpress.org/" target="_blank"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" /></a>
+<a href="https://vuejs.org/" target="_blank"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" /></a>
+<a href="https://reactjs.org/" target="_blank"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" /></a>
+<a href="https://flutter.dev/" target="_blank"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/2560px-Google-flutter-logo.svg.png" /></a>
 
 <hr/>
 
