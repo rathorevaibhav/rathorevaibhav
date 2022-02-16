@@ -49,6 +49,7 @@ Through [CodeTrek](https://coloredcow.com/codetrek/?utm_source=github&utm_medium
 <a href="https://reactjs.org/" target="_blank"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" /></a>
 <a href="https://flutter.dev/" target="_blank"><img height="25" src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg" /></a>
 <a href="https://strapi.io/" target="_blank"><img height="25" src="https://strapi.io/assets/strapi-logo-dark.svg" /></a>
+<a href="https://www.cypress.io/" target="_blank"><img height="25" src="https://www.cypress.io/static/33498b5f95008093f5f94467c61d20ab/c0bf4/cypress-logo.webp" /></a>
 
 <hr/>
 
