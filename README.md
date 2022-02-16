@@ -47,7 +47,8 @@ Through [CodeTrek](https://coloredcow.com/codetrek/?utm_source=github&utm_medium
 <a href="https://wordpress.org/" target="_blank"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/98/WordPress_blue_logo.svg" /></a>
 <a href="https://vuejs.org/" target="_blank"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Vue.js_Logo_2.svg" /></a>
 <a href="https://reactjs.org/" target="_blank"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" /></a>
-<a href="https://flutter.dev/" target="_blank"><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Google-flutter-logo.svg/2560px-Google-flutter-logo.svg.png" /></a>
+<a href="https://flutter.dev/" target="_blank"><img height="25" src="https://storage.googleapis.com/cms-storage-bucket/6a07d8a62f4308d2b854.svg" /></a>
+<a href="https://strapi.io/" target="_blank"><img height="25" src="https://strapi.io/assets/strapi-logo-dark.svg" /></a>
 
 <hr/>
 
