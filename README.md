@@ -8,7 +8,7 @@ I love building softwares and have worked on various technologies to make things
 <hr/>
 
 ### :newspaper: Blog Posts
-
+- [Bringing the power of End-to-End testing in Plio’s open-source platform](https://coloredcow.com/bringing-the-power-of-end-to-end-testing-in-plios-open-source-platform/)
 - [Multitenancy in Plio](https://coloredcow.com/multi-tenancy-in-plio/)
 - [Glific – Setting up the right foundation](https://coloredcow.com/glific-setting-up-the-right-foundation/?utm_source=github&utm_medium=rathorevaibhav)
 - [Ravines and Plateaus](https://coloredcow.com/ravines-and-plateaus/?utm_source=github&utm_medium=rathorevaibhav)
