@@ -22,14 +22,14 @@ I love building softwares and have worked on various technologies to make things
 - [Laravel and DevOps](https://coloredcow.com/talks/laravel/laravel-and-devops/?utm_source=github&utm_medium=rathorevaibhav)
 
 ### :computer: Work
-I have been an active software programmer and tech reviewer for more than 4 years. Though I mostly work in private projects, I am also active contributor and maintainer of several [open source projects at ColoredCow](https://github.com/coloredcow). To highlight a few:
+I have been an active software programmer and tech reviewer for more than 7 years. Apart from working in several enterprise-grade softwares, I am also active contributor and maintainer of several [open source projects at ColoredCow](https://github.com/coloredcow). To highlight a few:
 - [Plio](https://github.com/avantifellows?q=plio) - A platform that makes your videos interactive and helps to extract engagement insights
 - [Glific](https://github.com/glific/glific-frontend) - A two-way communication platform for non-profits using WhatsApp
 - [Employee Portal](https://github.com/coloredcow/employee-portal) - A hub-and-spoke platform for organization operations
+- [Medha - Student Information System](https://github.com/gitmedha/sis-frontend) - A tool for managing students' education & employment journey for a PAN-India non-profit organization
 - [Laravel GSuite](https://packagist.org/packages/coloredcow/laravel-gsuite) - A composer package to setup Google OAuth and GSuite Admin SDK in Laravel apps
 - [SesPress](https://wordpress.org/plugins/sespress/) - A WordPress plugin to send emails using Amazon’s Simple Email Service
 - [Bootstrap-Boilerplate](https://www.npmjs.com/package/bootstrap-boilerplate) - An NPM package to power-up core BootstrapCSS
-
 
 ### :mortar_board: I mentor programming!
 Through [CodeTrek](https://coloredcow.com/codetrek/?utm_source=github&utm_medium=rathorevaibhav), I've taught hundreds of students how to start their career in software development. Check out a few of my sessions:
